@@ -5,3 +5,10 @@ Debido a la asimetría en los consumos de energía eléctrica (i. e., uso de tra
 Por lo anterior, este libro contribuye al análisis de los sistemas de distribución de energía eléctrica considerando su naturaleza trifásica. Para esto se presentan tres metodologías de análisis del flujo de potencia tomando en cuenta la posibilidad de tener redes trifásicas radiales o malladas, así como la verificación de cada uno de estos métodos con el \textit{software} de análisis de sistemas de potencia conocido como DIgSILENT. Posteriormente, se analiza un problema de operación típico de sistemas eléctricos de distribución que se conoce como \textit{balance de fases}, para lo cual se desarrolla su formulación matemática general y luego, se aplican diversas técnicas de optimización combinatoria (i. e., metaheurística).
 
 La principal contribución de este libro es la descripción detallada de cada uno de los métodos de flujo de potencia, así como de las técnicas de optimización metaheurística aplicadas al problema de balance de fases en sistemas de distribución asimétricos. Esto se hace a manera de tutorial mediante la presentación de cada uno de los códigos desarrollados en el entorno de programación de MATLAB. Además, es importante resaltar que, aunque este es un libro derivado de una investigación, puede ser considerado como libro guía para cursos en el área de sistemas de distribución de energía eléctrica a nivel de pregrado y posgrado.  
+
+ATT:
+Laura Sofia Avellaneda-Gómez
+Brandon Cortés-Caicedo
+Oscar Danilo Montoya-Giraldo
+
+El presente libro fue producido en el marco del proyecto de investigación: Desarrollo de una metodología de optimización para la gestión óptima de recursos energéticos distribuidos en redes de distribución de energía eléctrica, registrado ante el Centro de Investigaciones y Desarrollo Científico de la Universidad Distrital Francisco José de Caldas. Código interno 1643-012-2020.
